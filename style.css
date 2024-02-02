@@ -1,0 +1,430 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Inicio CSS del index */
+/*Inicio Header*/
+header {
+    background-color:#304059 ;
+    
+}
+nav  ul li  a {
+    color: #f4d3a6;
+    font-size: 16px;
+    font-family: 'Lato', sans-serif;
+    text-decoration: none;
+}
+nav img {
+    width: 10%;
+    height: 10%;
+}
+nav {
+    border-style:solid ;
+    border-width: 5px ;
+    border-color: #d2b48c;
+}
+/*fin Header*/
+
+/*inicio body*/
+.introduccion {
+     width: 100%;
+     text-align: center; 
+     align-items: center; 
+     font-size: 20px;
+     font-family: 'Barlow Condensed', sans-serif;
+
+}
+
+.moneda {
+     margin-top: 3%;
+     margin-bottom: 3%;
+     width: 100%;
+     text-align: center; 
+     align-items: center;
+     font-size: 20px;
+     font-family: 'Barlow Condensed', sans-serif;
+}
+
+.basilica {
+     margin-top: 3%;
+     margin-bottom: 3%;
+     width: 100%;
+     text-align: center; 
+     align-items: center;
+     font-size: 20px;
+     font-family: 'Barlow Condensed', sans-serif;
+}
+
+.vaticano {
+    margin-top: 3%;
+    margin-bottom: 3%;
+    width: 100%;
+    text-align: center; 
+    align-items: center;
+    font-size: 20px;
+    font-family: 'Barlow Condensed', sans-serif;
+}
+/*fin body*/
+
+/* incio footer */
+footer{
+    background-color:#304059 ;
+    border-style:solid ;
+    border-width: 5px ;
+    border-color: #d2b48c;
+}
+.fotofooter {
+    width: 10%;
+    height: 10%;
+}
+
+.linksfooter {
+    color: #f4d3a6;
+    font-size: 16px;
+    font-family: 'Lato', sans-serif;
+    text-decoration: none; 
+}
+/* fin footer */
+/* fin CSS del index */
+
+/* incio css de geografia */
+
+/* incio body */
+.bodygeografia {
+    background-color: bisque;
+}
+/* inicio introduccion*/
+.geografia {
+    font-size:20px ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.paisajes{
+    width: 23%;
+    height: 20%;
+    border:solid skyblue;
+}
+/* fin introduccion */
+/* incio section rio po */
+.riopo {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    text-align: center;
+    background-color: bisque;
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+}
+
+.fotorio {
+    border: solid violet;
+    border-radius: 5px;
+}
+/* fin section rio po */
+
+/* inicio section los alpes */
+.losalpes {
+    margin-bottom: 5%;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+}
+
+.video {
+    border: solid #19adc0b4;
+    border-radius: 10px;
+}
+/* fin section los alpes */
+
+/* inicio section lago de garda */
+.lagodegarda {
+    text-align: center;
+    margin-bottom: 5%;
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    
+}
+.lagodegarda img {
+    width: 45%;
+    height: 45%;
+    border:solid rgb(147, 235, 126);
+    border-radius: 10px;
+    object-fit: cover;
+
+}
+/* .fotolago {
+   width: 45%;
+   height: 45%;
+   border:solid rgb(147, 235, 126);
+   border-radius: 10px;
+}
+.fotolago2 {
+    width: 45%;
+   height: 45%;
+   border:solid rgb(147, 235, 126);
+   border-radius: 10px;
+} */
+/* fin section lago de garda*/
+
+/* inicio section mar jonico*/
+.marjonico {
+    text-align: center;
+    margin-bottom: 5%;
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+}
+.videomarjonico {
+    border: solid #3224f3b4;
+    border-radius: 10px;
+}
+/* fin section mar jonico */
+
+/* inicio css grandes personajes */
+.grandespersonajes {
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    font-size: 25px;
+    font-family: 'Manrope', sans-serif;
+}
+h1 {
+    text-align: center;
+    color: rgb(0, 2, 0);
+    font-size: 70px;
+    text-decoration: underline green;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    font-family: 'Manrope', sans-serif;
+}
+/* inicio da vinci*/
+h2{
+    text-align: center;
+    color: rgb(0, 2, 0);
+    font-size: 50px;
+    text-decoration: underline green;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    font-family: 'Manrope', sans-serif;
+}
+.fdavinci {
+    align-items:center ;
+    width: 35%;
+    height: 35%;
+}
+.davinci p {
+    text-align: center;
+    font-family: 'Manrope', sans-serif;
+    font-size: 30px;
+    margin-top: 2%;
+}
+h3 {
+    font-size: 35px;
+    text-decoration: underline blue;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.inventos {
+    text-align: center;
+    width: 15%;
+    height: 15%;
+}
+/* fin da vinci */
+
+/* incio Miguel angel */
+
+h4 {
+    text-align: center;
+    color: rgb(0, 2, 0);
+    font-size: 50px;
+    text-decoration: underline green;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    font-family: 'Manrope', sans-serif;
+}
+.fmiguelangel {
+    align-items:center ;
+    width: 35%;
+    height: 35%;
+}
+.miguelangel p {
+    text-align: center;
+    font-family: 'Manrope', sans-serif;
+    font-size: 30px;
+    margin-top: 2%;
+}
+
+h5 {
+    font-size: 35px;
+    text-decoration: underline blue;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.pinturas {
+    text-align: center;
+    width: 15%;
+    height: 15%;
+}
+/* fin miguel angel */
+/* fin css grandes personajes */
+
+/* inicio lugares emblematicos */
+/* inicio fontana di trevi */
+.fontana {
+    text-align: center;
+}
+h6 {
+    margin-top: 3%;
+    font-size: 60px;
+    
+}
+.fontana p {
+    font-size: 30px;
+    margin-bottom: 2%;
+}
+/* fin fontana di trevi*/
+
+/* incio ciudad del vaticano */
+.levaticano {
+    text-align: center;
+    margin-top: 3%;
+    
+}
+h7 {
+    font-size: 60px;
+    display: block;
+}
+.levaticano img {
+    width: 50%;
+    height: 50%;
+}
+.levaticano p {
+    margin-top: 3%;
+    font-size: 30px;
+}
+/* fin ciudad del vaticano */
+
+/* incio coliseo */
+.coliseo {
+    text-align: center;
+    margin-top: 3%;
+    display: block;
+}
+h9 {
+    margin-top: 3%;
+    font-size: 60px;
+}
+.coliseo p {
+    margin-bottom: 3%;
+    font-size: 30px; 
+}
+.coliseof {
+    margin-top: 0;
+    margin-bottom: 3%;
+}
+
+
+/* .fotoscoliseo {  
+} */
+h8 {
+    font-size: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: underline gold;
+}
+.vistascoliseo {
+    width: 30%;
+    height: 30%;
+    display: block;
+    text-align: center;
+    margin: 3% 0% 3% 0%;
+}
+/*Fin coliseo*/
+/*fin lugares emblematicos*/
+
+/*inicio poblacion*/
+.bodypob {
+    background-color: #d2b48c;
+}
+.intropob {
+    text-align: center;
+    font-size: 27px;
+    margin: 3% 0 3% 0;
+    font-family: 'Fjalla One', sans-serif;
+}
+.pobmujereshombres {
+    text-align: center;
+    font-size: 27px;
+    margin: 3% 0 3% 0;
+    font-family: 'Fjalla One', sans-serif;
+}
+.ciudadesdelnorte {
+    text-align: center;
+    font-size: 27px;
+    margin: 3% 0 3% 0;
+    font-family: 'Fjalla One', sans-serif;
+    
+}
+.ciudsur {
+    text-align: center;
+    font-size: 27px;
+    margin: 3% 0 3% 0;
+    font-family: 'Fjalla One', sans-serif;
+}
+.inmigrantes {
+    text-align: center;
+    font-size: 27px;
+    margin: 3% 0 3% 0;
+    font-family: 'Fjalla One', sans-serif;
+}
+.acteconomica {
+    text-align: center;
+    font-size: 27px;
+    margin: 3% 0 3% 0;
+    font-family: 'Fjalla One', sans-serif;
+}
+.regmaspoblada {
+    text-align: center;
+    font-size: 27px;
+    margin: 3% 0 3% 0;
+    font-family: 'Fjalla One', sans-serif;
+}
+h11 {
+    font-size: 47px;
+    font-family: 'Fjalla One', sans-serif;
+    color: green;
+    background-color: #d2b48c;
+}
+h12 {
+    font-size: 47px;
+    font-family: 'Fjalla One', sans-serif;
+    color: green;
+    background-color: #d2b48c;
+}
+h13{
+    font-size: 47px;
+    font-family: 'Fjalla One', sans-serif;
+    color: green;
+    background-color: #d2b48c;
+}
+h14{
+    font-size: 47px;
+    font-family: 'Fjalla One', sans-serif;
+    color: green;
+    background-color: #d2b48c;
+}
+h15 {
+    font-size: 47px;
+    font-family: 'Fjalla One', sans-serif;
+    color: green;
+    background-color: #d2b48c;
+}
+h16{
+    font-size: 47px;
+    font-family: 'Fjalla One', sans-serif;
+    color: green;
+    background-color: #d2b48c;
+}
+.roma {
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
